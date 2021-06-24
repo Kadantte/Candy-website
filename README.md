@@ -1,12 +1,6 @@
 # Candy - website
 
-![alt text][logo]
-
-[logo]: https://raw.githubusercontent.com/Kadantte/candy-website/master/assets/img/candy.png "Candy - a Windows Terminal theme"
-
-## Image!
- 
-There's two pictures one large `candy.large.png` and the other is small `candy.small.png` just use     what you like.
+![Kurumi](/assets/img/candy.png)
 
 ## Acknowledgements!
 
