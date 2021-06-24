@@ -10,7 +10,7 @@ All used Images by [LeraPI](https://twitter.com/LeraPI_LP). used from the origin
 
 If I did not properly credit your artwork or if you'd like me to not use your artwork please send me an email to dmca@kadantte.moe or contact me on Discord `Usui#0256` and I will correct it immediately!
 
-## DMCA!
+## LICENSE!
 
 ```
 MIT License
